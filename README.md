@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a Student Management System Desktop Application.
+- 🌱 I’m currently learning further Web Application Development and AI/ML
+- 👯 I’m looking to collaborate on JavaScript and Java.
+- 🤔 I’m looking for help with contributing for other projects in Github
+- 💬 Ask me about flow-charts, psudo-codes, JavaScript and Core-Java
+- 📫 How to reach me: my email: rmahawewa@yahoo.com, whatsapp: +9471 2735639
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: fun
