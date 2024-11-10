@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about flow-charts, psudo-codes, JavaScript and Core-Java
 - 📫 How to reach me: my email: rmahawewa@yahoo.com, whatsapp: +9471 2735639
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: fun
+- ⚡ Fun fact: 1/0 = 1000/0
